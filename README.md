@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hi there! 
 
-<!--
-**billharit/billharit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of informatics and an aspiring software developer with a passion for learning about programming and front-end development, as well as deep learning.
 
-Here are some ideas to get you started:
+## Education
+- Currently enrolling as Informatics degree in Institut Teknologi Sepuluh Nopember (Expected Graduation: 2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Front-end or Full-stack development
+- Deep learning and AI
+- Open source software and community involvement
+
+Feel free to reach out to me to connect or collaborate on a project!
+
